@@ -25,22 +25,24 @@
 
 ---
 
-## 📄 الورقة البيضاء | Whitepaper
+## 📄 Whitepaper
 
-📥 لتحميل الورقة البيضاء باللغة العربية:
-                 (/Nawah_Whitepaper_.pdf)
+The official whitepaper of the **Nawah Token** project outlines our vision to empower women and youth through culturally inspired digital assets using Web3 technologies.
+
+📥 [Download Nawah Token – Whitepaper (English)](./Nawah_Whitepaper_EN_Final.pdf)
+
+This document includes:
+- Vision & Mission
+- Objectives
+- Target Audience
+- NFT Features
+- Roadmap to 2029
+- Cultural Foundation
+- Contact & GitHub info
+
+> 🌱 From Roots to the Future
 
 
----
-
-## 🔧 التقدم الحالي | Current Progress
-
-- ✅ تصميم أول رمز NFT: **نور الحكمة**
-- ✅ إعداد الشهادات الرقمية
-- ✅ إطلاق المستودع العام على GitHub
-- 🔜 إنشاء نموذج تسجيل ومشاركة مجتمعية
-
----
 
 ## 🤝 كيف تساهم؟ | How to Contribute
 
